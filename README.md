@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <a href="https://nooreldin-portfolio-website.app/">
+  <a href="https://nooreldin-portfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-2361A6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
   </a>
   <a href="https://www.youtube.com/@nooreldin_1">
@@ -54,7 +54,7 @@ Here are some of the technologies and tools I work with:
 
 Feel free to reach out to me if you have an interesting project or just want to chat.
 
-- **Website:** [https://nooreldin-portfolio-website.app/](https://nooreldin-portfolio-website.app/)
+- **Website:** [https://nooreldin-portfolio.netlify.app/](https://nooreldin-portfolio-website.app/)
 - **WhatsApp:** [https://wa.me/+201552678658](https://wa.me/+201552678658)
 - **facebook:** [https://www.facebook.com/profile.php?id=61575194101114](https://www.facebook.com/profile.php?id=61575194101114)
 - **instagram:** [https://www.instagram.com/nooreldin_wd/](https://www.instagram.com/nooreldin_wd/)
