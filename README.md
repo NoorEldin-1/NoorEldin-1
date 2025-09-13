@@ -8,11 +8,20 @@
   <a href="https://nooreldin-portfolio-website.app/">
     <img src="https://img.shields.io/badge/Portfolio-2361A6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
   </a>
-  <a href="mailto:nooreldin.wd@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
   <a href="https://github.com/NoorEldin-1">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="https://x.com/nooreldin_wd">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61575194101114">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="https://www.instagram.com/nooreldin_wd/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://wa.me/+201552678658">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
 </p>
 
@@ -26,7 +35,7 @@ I'm a dedicated Full-Stack Developer with expertise in building robust and scala
 
 ### 🚀 Technologies & Tools
 
-Here are some of the technologies I work with:
+Here are some of the technologies and tools I work with:
 
 | Category            | Skills & Tools                                       |
 | :------------------ | :--------------------------------------------------- |
@@ -49,7 +58,8 @@ Here are some of the technologies I work with:
 
 Feel free to reach out to me if you have an interesting project or just want to chat.
 
-- **Portfolio:** [https://nooreldin-portfolio-website.app/](https://nooreldin-portfolio-website.app/)
-- **GitHub:** [https://github.com/NoorEldin-1](https://github.com/NoorEldin-1)
-
----
+- **Website:** [https://nooreldin-portfolio-website.app/](https://nooreldin-portfolio-website.app/)
+- **WhatsApp:** [https://wa.me/+201552678658](https://wa.me/+201552678658)
+- **facebook:** [https://www.facebook.com/profile.php?id=61575194101114](https://www.facebook.com/profile.php?id=61575194101114)
+- **instagram:** [https://www.instagram.com/nooreldin_wd/](https://www.instagram.com/nooreldin_wd/)
+- **X:** [https://x.com/nooreldin_wd](https://x.com/nooreldin_wd)
