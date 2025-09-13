@@ -8,6 +8,9 @@
   <a href="https://nooreldin-portfolio-website.app/">
     <img src="https://img.shields.io/badge/Portfolio-2361A6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
   </a>
+  <a href="https://www.youtube.com/@nooreldin_1">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+  </a>
   <a href="https://github.com/NoorEldin-1">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
