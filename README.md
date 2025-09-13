@@ -47,13 +47,6 @@ Here are some of the technologies and tools I work with:
 
 ---
 
-### 🌱 I'm Currently Learning
-
-- Advanced Laravel techniques
-- Improving my Python data structures and algorithms
-
----
-
 ### 📫 Let's Connect!
 
 Feel free to reach out to me if you have an interesting project or just want to chat.
