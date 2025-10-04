@@ -59,6 +59,4 @@ Feel free to reach out to me if you have an interesting project or just want to 
 
 - **Website:** [https://nooreldin-portfolio.netlify.app/](https://nooreldin-portfolio-website.app/)
 - **WhatsApp:** [https://wa.me/+201552678658](https://wa.me/+201552678658)
-- **facebook:** [https://www.facebook.com/profile.php?id=61575194101114](https://www.facebook.com/profile.php?id=61575194101114)
-- **instagram:** [https://www.instagram.com/nooreldin_wd/](https://www.instagram.com/nooreldin_wd/)
-- **X:** [https://x.com/nooreldin_wd](https://x.com/nooreldin_wd)
+- **Linkedin:** [https://www.linkedin.com/in/noor-el-din-b72860379/](https://www.linkedin.com/in/noor-el-din-b72860379/)
