@@ -45,7 +45,7 @@ Here are some of the technologies and tools I work with:
 
 | Category            | Skills & Tools                                       |
 | :------------------ | :--------------------------------------------------- |
-| **Front-End**       | React, HTML5, CSS3, JavaScript                       |
+| **Front-End**       | React, Next.js                                       |
 | **Styling**         | Tailwind CSS, Framer Motion, Mantine UI, Material UI |
 | **Back-End**        | Laravel, Laravel Reverb, Python, FastAPI             |
 | **Database**        | MySQL                                                |
