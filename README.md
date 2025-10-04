@@ -8,6 +8,9 @@
   <a href="https://nooreldin-portfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-2361A6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
   </a>
+  <a href="https://www.linkedin.com/in/noor-el-din-b72860379/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
   <a href="https://www.youtube.com/@nooreldin_1">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
